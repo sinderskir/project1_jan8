@@ -1,5 +1,5 @@
 # Project 1: Brazilian January 8 insurrection
-This is my first project for the Lede Program 2023, about the anti-democratic acts in Brazil on January 8 and how National Congress members discussed it on Twitter.
+This is my first project for the Lede Program 2023, about the anti-democratic acts in Brazil on January 8, 2023, and how National Congress members discussed it on Twitter.
 
 ## Data
 Data were collected with tools from the [Junkipedia project](https://www.junkipedia.org/). The main corpus consists of Brazilian Congresspeople's tweets – from the Brazilian House of Representatives and Senate –, published on January 8, 2023.
