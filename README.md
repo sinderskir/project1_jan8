@@ -11,4 +11,4 @@ A basic lexical analysis was carried out, identifying key terms and the most use
 Verifying the frequency and presence of lexicon in the corpus is an analytic method with limitations that must be disclaimed. First, it only allows a partial understanding of the meanings in the tweets, missing some nuances and intentions hidden in the content. It also doesn't capture the sentiments connected to the words. 
 
 ## Future paths
-Applying the Reinert method for clustering textual data to the corpus can make lexical analysis more accurate. Performing a valence analysis is another option to deepen the investigation. 
+Applying the Reinert method for clustering textual data to the corpus can make lexical analysis more accurate. Performing a valence analysis is another option to deepen the investigation (although it has its own limitations). 
