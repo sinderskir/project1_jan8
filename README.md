@@ -1,2 +1,2 @@
-# project1_jan8
-Project 1, Lede Program 2023 - January 8th
+# Project 1, Brazilian January 8th
+This is my first project for the Lede Program 2023, about the Brazilian January 8th.
